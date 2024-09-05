@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "displayName": "Pull requests",
+    "blocks": [
+        {
+            "widget": "welcome.html",
+            "cols": 12,
+            "params": {
+                "path": "packages/gitsense-pull-requests/msg.html"
+            }
+        }
+    ] 
+}
